@@ -11,7 +11,8 @@ export default function AboutMe() {
           <h2 className="text-2xl font-bold mb-3 text-orange-500">About <span className="text-white">Me</span></h2>
           <h3 className="text-base font-semibold mb-4 leading-snug">I find fulfillment in blending visual design with the power of coding to create meaningful experiences.</h3>
           <p className="text-gray-400 text-xs md:text-sm leading-relaxed max-w-xl mx-auto lg:mx-0">
-            I am a passionate Fullstack Web Developer dedicated to building clean, efficient, and visual-striking web applications. My goal is to create seamless digital interactions that bring ideas to life.
+            I am a passionate Fullstack Web Developer dedicated to building clean, efficient, and visual-striking web applications. My goal is to create seamless digital interactions that bring ideas to
+             life.
           </p>
         </div>
         <SideMenu />
