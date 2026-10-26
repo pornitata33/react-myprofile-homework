@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn, FaGoogle } from 'react-icons/fa';
-import profileImg from '../assets/profile.png';
+import profileImg from '../assets/Profile.png';
 
 export default function MyCard() {
   return (
